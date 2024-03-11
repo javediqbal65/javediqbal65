@@ -5,7 +5,7 @@
 <span/>
 
 ###
- ✨ Am here, Arshad, <br>
+ ✨ Am here, Javed Iqbal, <br>
  :zap: Forging bug-free pathways since 2020<br>
  :speech_balloon: Driving MERN projects to success.
 ###
