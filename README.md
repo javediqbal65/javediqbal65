@@ -12,7 +12,7 @@
 ## I code with
 <img align="right" height="150" src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif"  />
 
-<a href="https://github.com/arshadakl?tab=repositories"> 
+<a href="https://github.com/javediqbal65?tab=repositories"> 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img width="15" />
@@ -29,13 +29,9 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="firebase logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
 </div>
 <a/>
-
-###
+<br/>
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=javediqbal65&theme=merko&hide_border=false&include_all_commits=true&count_private=false" height="150" alt="stats graph"  />
