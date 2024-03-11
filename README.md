@@ -13,7 +13,7 @@
 <img align="right" height="150" src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif"  />
 
 <a href="https://github.com/javediqbal65?tab=repositories"> 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img width="15" />
 <!--   <img width="15" /> -->
